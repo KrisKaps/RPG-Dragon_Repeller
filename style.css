@@ -24,6 +24,10 @@ body {
     padding: 5px;
 }
 
+#controls button {
+    width: 32%;
+}
+
 #monsterStats {
     display: none;
     border: 1px solid #0a0a23;
